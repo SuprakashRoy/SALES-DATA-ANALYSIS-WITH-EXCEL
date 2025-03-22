@@ -1,7 +1,3 @@
-Here's a more **interactive and structured README file** for your **Excel-based Sales Dashboard** project. It includes sections for **observations, objectives, insights, and key takeaways** to make it more engaging.
-
----
-
 # 📊 **Sales Analysis Dashboard**  
 
 ## 🚀 **Project Overview**  
@@ -118,5 +114,3 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 🔗 **Follow me on LinkedIn:** [Suprakash Roy](https://www.linkedin.com/in/suprakash-roy-0355882a2/)  
 
 ---
-
-This README file makes your project **more engaging, structured, and informative.** Let me know if you'd like any refinements! 🚀🔥
